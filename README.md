@@ -121,6 +121,8 @@ digitalWrite(M1_in2, HIGH);
 
 delay(50); 
 }
+[DC MOTOR SPEED AND DIRECTION CONTROLLER PROJECT REPORT.pdf](https://github.com/user-attachments/files/20942866/DC.MOTOR.SPEED.AND.DIRECTION.CONTROLLER.PROJECT.REPORT.pdf)
+
 
 
 
