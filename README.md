@@ -80,7 +80,7 @@ lcd.begin(16,2);
 lcd.setCursor(0,0);
 lcd.print(" WELCOME To  Our ");
 lcd.setCursor(0,1);
-lcd.print(“Group Project");
+lcd.print(“ Project");
 delay(2000); // Waiting for a while
 lcd.clear();
 }
